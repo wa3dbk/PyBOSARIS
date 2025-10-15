@@ -346,9 +346,9 @@ If you use PyBOSARIS in your research, please cite:
 ```bibtex
 @software{pybosaris2025,
   title = {PyBOSARIS: Python port of the BOSARIS Toolkit},
-  author = {PyBOSARIS Contributors},
+  author = {Waad Ben Kheder},
   year = {2025},
-  url = {https://github.com/wa3dbk/pybosaris}
+  url = {https://github.com/wa3dbk/PyBOSARIS}
 }
 ```
 
